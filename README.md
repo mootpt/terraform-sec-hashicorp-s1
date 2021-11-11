@@ -1,5 +1,5 @@
 # terraform-hashicorp-s1
-A simple module to return HashiCorp's S-1 filing status
+A simple module to return HashiCorp's S-1 filing status (which is always true at this point)
 
 ## Requirements
 
